@@ -1,5 +1,7 @@
 # The Causal Structure of Global Warming: Planetary Circulation Failure and the Loss of Water Phase-Transition Cooling
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 温暖化の原因と因果構造：地球循環不全と水の相転移冷却の喪失
 
 [日本語](README_ja.md) | [English](README.md)
