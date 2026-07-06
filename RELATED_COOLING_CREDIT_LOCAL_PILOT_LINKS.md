@@ -1,0 +1,46 @@
+# Related Links: Cooling Credit Local Pilot Model
+
+## 惑星循環不全から地域冷却実証への接続
+
+This repository explains global warming as planetary circulation failure. The **Cooling Credit Local Pilot Model** translates that diagnosis into measurable local pilots for schools, shopping streets, parks, farms, shelters, bus stops, and public facilities.
+
+本リポジトリは、地球温暖化を惑星循環不全として説明する。**Cooling Credit Local Pilot Model** は、その診断を、学校・商店街・公園・農地・避難所・バス停・公共施設などの測定可能な地域冷却実証へ接続する。
+
+---
+
+## Main Link / 主要リンク
+
+- [Cooling-Credit-Local-Pilot-Model](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model)
+- [日本語 README](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README_ja.md)
+- [English README](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README.md)
+- [العربية README](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README_ar.md)
+
+---
+
+## Conceptual Flow
+
+```text
+Planetary Circulation Failure
+↓
+Natural Cooling Function Loss
+↓
+Local Cooling Pilot
+↓
+MRV Measurement
+↓
+Cooling Point
+↓
+Cooling Credit
+```
+
+---
+
+## Related Repositories
+
+- [Master-Definition-of-Global-Warming-Causality-and-Complete-Solution](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution)
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model)
+- [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework)
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+- [Master-Knowledge-Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
