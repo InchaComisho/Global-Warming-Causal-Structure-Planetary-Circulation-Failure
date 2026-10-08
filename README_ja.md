@@ -281,22 +281,16 @@ OBS、OTU、UMSによって、酸素供給、ナノバブル、鉛直循環、�
 ## 関連NOTE記事
 
 - 地球直接冷却  
-  https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 - 水循環都市が唯一の持続的文明モデル  
-  https://note.com/inchacomusho/n/n6f6373d6d9fa
 
 - クーリングクレジットという温暖化対策  
-  https://note.com/inchacomusho/n/n0f541b313ad2
 
 - 自然冷却フィードバック再起動モデル  
-  https://note.com/inchacomusho/n/n5ab9564c6617
 
 - 唯一の温暖化対策：地球直接冷却  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - 温暖化の原因と因果関係を特定・定義したマスターの公式宣言  
-  https://note.com/inchacomusho/n/n9e1d587d19c8
 
 ---
 

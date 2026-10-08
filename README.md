@@ -271,22 +271,16 @@ This definition connects emissions reduction, nature restoration, Direct Planeta
 ## Related NOTE Articles
 
 - Direct Planetary Cooling  
-  https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 - Water-Circulating Cities as the Only Sustainable Civilization Model  
-  https://note.com/inchacomusho/n/n6f6373d6d9fa
 
 - Cooling Credit as a Global Warming Countermeasure  
-  https://note.com/inchacomusho/n/n0f541b313ad2
 
 - Natural Cooling Feedback Restart Model  
-  https://note.com/inchacomusho/n/n5ab9564c6617
 
 - The Only Global Warming Countermeasure: Direct Planetary Cooling  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - Official Declaration on the Causal Structure of Global Warming  
-  https://note.com/inchacomusho/n/n9e1d587d19c8
 
 ---
 

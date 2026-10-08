@@ -269,22 +269,16 @@
 ## مقالات NOTE ذات صلة
 
 - التبريد الكوكبي المباشر  
-  https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 - المدن الدائرية المائية كنموذج الحضارة المستدام الوحيد  
-  https://note.com/inchacomusho/n/n6f6373d6d9fa
 
 - رصيد التبريد كإجراء مضاد للاحترار العالمي  
-  https://note.com/inchacomusho/n/n0f541b313ad2
 
 - نموذج إعادة تشغيل التغذية الراجعة الطبيعية للتبريد  
-  https://note.com/inchacomusho/n/n5ab9564c6617
 
 - الإجراء الوحيد لمواجهة الاحترار العالمي: التبريد الكوكبي المباشر  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - الإعلان الرسمي حول البنية السببية للاحترار العالمي  
-  https://note.com/inchacomusho/n/n9e1d587d19c8
 
 ---
 
